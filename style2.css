@@ -305,7 +305,7 @@ section{
     background: linear-gradient(white, rgb(180, 218, 216));
 }
 .skills .title::after{
-    content:"what i know";
+    content:"what I know";
     background: rgb(230, 245, 245);
 }
 .skills .skills-content .column{
@@ -378,7 +378,7 @@ section{
     background: linear-gradient(white, rgb(180, 218, 216));
 }
 .project .title::after{
-    content:"what i made";
+    content:"what I made";
     background: rgb(235, 245, 245);
 }
 .project .carousel .card{
